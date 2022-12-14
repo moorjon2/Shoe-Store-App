@@ -14,11 +14,13 @@ Open the starter project in the latest stable version of Android Studio.
 
 Open the starter project in Android Studio
 
-##Steps
+
+## Steps
 
 [comment]: <> (Added TODO's to be able to track them within Android Studio, thats why they are duplicated)
 
 [//]: # (TODO: 1. Open the starter project in Android Studio)
+
 1. Open the starter project in Android Studio
 
 [//]: # (TODO: 2. Add the navigation libraries to the app build.gradle file)
